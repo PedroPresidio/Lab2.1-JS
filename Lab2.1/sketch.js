@@ -43,7 +43,7 @@ function draw() {
     text("⚠️ FAULT: Check sensor connection!", 20, 50);
   }
 }
-
+//AI asssit
 // Simple triangle helper
 function drawTriangle(s) {
   triangle(0, -s/2, -s/2, s/2, s/2, s/2);
